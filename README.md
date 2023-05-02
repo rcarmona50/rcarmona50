@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Job Tracker App - University Capstone**
 
-- 👨‍💻 All of my projects are available at [github.com/rcarmona50](github.com/rcarmona50)
+- 👨‍💻 All of my projects are available at github.com/rcarmona50
 
 - 📫 How to reach me **rcarmona50@gmail.com**
 

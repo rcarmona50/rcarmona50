@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rafael Carmona</h1>
 <h3 align="center">A passionate Software Developer from Phoenix, AZ.</h3>
 
+⚡ My bio!
+
+- 🌱 I'm currently a senior at Oregon State University - BS in Computer Science.
+
+- 🤔 I'm currently seeking entryl level/new grad software engineer positions for spring 2023.
+
 - 🔭 I’m currently working on **AI Song Recommendation App - Using ChatGPT and Spotify API**
 
 - 🌱 I’m currently learning **React, ChatGPT API**
@@ -10,6 +16,8 @@
 - 👨‍💻 All of my projects are available at **github.com/rcarmona50**
 
 - 📫 How to reach me **rcarmona50@gmail.com**
+
+- ⚡ Fun fact: I'm Puerto Rican :puerto_rico: and love photography!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

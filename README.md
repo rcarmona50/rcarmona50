@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael Carmona</h1>
+<h1 align="center">Hola 👋, I'm Rafael Carmona</h1>
 <h3 align="center">A passionate Software Developer from Phoenix, AZ.</h3>
 
 ⚡ My bio!

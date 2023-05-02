@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael Carmona</h1>
-<h3 align="center">A passionate frontend developer from Arizona, USA.</h3>
+<h3 align="center">A passionate Software Developer from Phoenix, AZ.</h3>
 
 - 🔭 I’m currently working on **AI Song Recommendation App - Using ChatGPT and Spotify API**
 
 - 🌱 I’m currently learning **React, ChatGPT API**
 
-- 👯 I’m looking to collaborate on **Job Tracker App - University Capstone**
+- 👯 I’m collaborating on **Job Tracker App - For my University Capstone**
 
 - 👨‍💻 All of my projects are available at **github.com/rcarmona50**
 

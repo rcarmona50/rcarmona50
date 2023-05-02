@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rcarmona50@gmail.com**
 
-- ⚡ Fun fact: I'm Puerto Rican :puerto_rico: and love photography!
+- ⚡ Fun fact: I'm Puerto Rican, dog lover, gamer and love photography!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

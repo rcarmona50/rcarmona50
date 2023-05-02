@@ -13,7 +13,7 @@
 
 - 👯 I’m collaborating on **Job Tracker App - For my University Capstone**
 
-- 👨‍💻 All of my projects are available at **github.com/rcarmona50**
+- 👨‍💻 Check out my portfolio website! **www.rafael-carmona.com** or here on **www.github.com/rcarmona50**
 
 - 📫 How to reach me **rcarmona50@gmail.com**
 

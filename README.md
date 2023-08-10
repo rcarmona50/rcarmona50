@@ -3,15 +3,13 @@
 
 ⚡ My bio!
 
-- 🌱 I'm currently a senior at Oregon State University - BS in Computer Science.
+- 🌱 Oregon State University - Computer Science Graduate
 
-- 🤔 I'm currently seeking entryl level/new grad software engineer positions for spring 2023.
+- 🤔 I'm currently seeking entryl level/new grad software engineer positions for Fall 2023.
 
-- 🔭 I’m currently working on **AI Song Recommendation App - Using ChatGPT and Spotify API**
+- 🔭 I’m currently working on **React - Project mananagement Application for my office.*
 
 - 🌱 I’m currently learning **React, ChatGPT API**
-
-- 👯 I’m collaborating on **Job Tracker App - For my University Capstone**
 
 - 👨‍💻 Check out my portfolio website! **www.rafael-carmona.com** or my projects pinned below!
 

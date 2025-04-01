@@ -1,22 +1,6 @@
 <h1 align="center">Hola 👋, I'm Rafael Carmona</h1>
 <h3 align="center">A passionate Software Developer from Phoenix, AZ.</h3>
 
-⚡ My bio!
-
-- 🌱 Oregon State University - Computer Science Graduate
-
-- 🤔 I'm currently seeking entryl level/new grad software engineer positions for Fall 2023.
-
-- 🔭 I’m currently working on **React - Project mananagement Application for my office.*
-
-- 🌱 I’m currently learning **React, ChatGPT API**
-
-- 👨‍💻 Check out my portfolio website! **www.rafael-carmona.com** or my projects pinned below!
-
-- 📫 How to reach me **rcarmona50@gmail.com**
-
-- ⚡ Fun fact: I'm Puerto Rican, dog lover, gamer and love photography!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carmonar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carmonar" height="30" width="40" /></a>
